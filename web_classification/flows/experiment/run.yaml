@@ -5,4 +5,4 @@ column_mapping:
   url: ${data.url}
 
 # define cloud resource
-runtime: <runtime_name>
+runtime: Nil_Compute
